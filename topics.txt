@@ -1,0 +1,280 @@
+# ============================================================
+# NEWS_HUB CUSTOM TOPICS
+# One topic per line.
+# Lines beginning with # are ignored.
+# ============================================================
+
+# WORLD / CURRENT AFFAIRS
+world news
+international news
+global news
+breaking news
+geopolitics
+international relations
+diplomacy
+United Nations
+NATO
+G20
+human rights
+global security
+
+# PAKISTAN
+Pakistan
+Pakistan news
+Pakistan politics
+Pakistan economy
+Pakistan business
+Pakistan technology
+Pakistan sports
+Pakistan cricket
+Pakistan education
+Pakistan weather
+Islamabad
+Lahore
+Karachi
+
+# INDIA / SOUTH ASIA
+India
+India news
+India economy
+India technology
+India politics
+South Asia
+Bangladesh
+Sri Lanka
+Nepal
+
+# BUSINESS
+business
+global business
+world economy
+stock market
+financial markets
+economy
+inflation
+interest rates
+central banks
+Federal Reserve
+European Central Bank
+banking
+fintech
+startups
+venture capital
+IPO
+mergers acquisitions
+corporate earnings
+oil prices
+gold prices
+forex
+commodities
+real estate
+housing market
+jobs
+unemployment
+trade
+tariffs
+supply chain
+
+# TECHNOLOGY
+technology
+artificial intelligence
+AI
+machine learning
+OpenAI
+ChatGPT
+Google AI
+Microsoft AI
+Apple
+Google
+Microsoft
+Amazon
+Meta
+Nvidia
+Tesla
+SpaceX
+Samsung
+cybersecurity
+data breach
+cloud computing
+semiconductors
+smartphones
+iPhone
+Android
+5G
+robotics
+drones
+blockchain
+cryptocurrency
+Bitcoin
+Ethereum
+quantum computing
+virtual reality
+augmented reality
+video games
+PlayStation
+Xbox
+Nintendo
+
+# SCIENCE
+science
+space
+NASA
+Mars
+astronomy
+physics
+biology
+genetics
+archaeology
+dinosaurs
+oceans
+earthquakes
+volcanoes
+climate change
+weather
+wildfires
+floods
+renewable energy
+solar power
+wind power
+nuclear energy
+batteries
+wildlife
+biodiversity
+pollution
+water crisis
+
+# HEALTH
+health
+healthcare
+public health
+medical research
+hospitals
+medicine
+pharmaceuticals
+vaccines
+cancer
+diabetes
+heart disease
+mental health
+nutrition
+sleep
+pandemic
+flu
+longevity
+
+# SPORTS
+sports
+football
+soccer
+Premier League
+Champions League
+La Liga
+Serie A
+Bundesliga
+World Cup
+NBA
+NFL
+MLB
+NHL
+WNBA
+cricket
+IPL
+tennis
+Wimbledon
+golf
+Formula 1
+Olympics
+boxing
+UFC
+rugby
+cycling
+athletics
+esports
+badminton
+hockey
+swimming
+MotoGP
+NASCAR
+chess
+
+# ENTERTAINMENT
+entertainment
+movies
+box office
+Hollywood
+Bollywood
+Netflix
+streaming
+television
+music
+concerts
+celebrities
+Oscars
+Grammys
+K-pop
+anime
+books
+theatre
+comedy
+fashion
+art
+museums
+podcasts
+
+# EDUCATION
+education
+universities
+students
+schools
+higher education
+online education
+scholarships
+research
+
+# TRAVEL
+travel
+tourism
+airlines
+aviation
+hotels
+destinations
+cruise
+railways
+
+# AUTOMOTIVE
+cars
+electric vehicles
+EV
+Tesla
+Toyota
+BMW
+Mercedes
+Ford
+Volkswagen
+motorcycles
+automotive industry
+
+# ENVIRONMENT
+environment
+climate
+climate change
+global warming
+renewable energy
+solar energy
+wind energy
+carbon emissions
+pollution
+conservation
+wildlife
+
+# FOOD / LIFESTYLE
+food
+restaurants
+cooking
+lifestyle
+parenting
+fashion
+design
+architecture
+agriculture
+farming
