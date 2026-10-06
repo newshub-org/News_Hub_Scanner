@@ -1,20 +1,3 @@
-"""
-NEWS_HUB - Unlimited-topics RSS scanner (Neon / PostgreSQL)
-
-* Scans hundreds or thousands of topics every 20 minutes
-* Topics come from 4 places (all merged, duplicates removed):
-    1. Curated feeds (BBC, Guardian, NYT, Google News sections)
-    2. Google News country editions
-    3. Built-in keyword topics (SEED_TOPICS below)
-    4. YOUR topics: topics.txt (one per line) and/or the scan_topics table in Neon
-  -> Any keyword works as a topic: "bitcoin", "formula 1", "monsoon india" ...
-* An article found under several topics is saved ONCE and tagged with all of them
-* Nothing is ever deleted
-
-Install:  pip install feedparser requests psycopg2-binary
-Run:      DATABASE_URL="postgresql://user:pass@host/db?sslmode=require" python news_scanner.py
-"""
-
 import logging
 import os
 import re
@@ -38,7 +21,7 @@ from psycopg2.extras import execute_values
 DATABASE_URL = os.getenv("DATABASE_URL")
 TOPICS_FILE = os.getenv("TOPICS_FILE", "topics.txt")
 
-SCAN_INTERVAL = 20 * 60      # a new scan every 20 minutes
+SCAN_INTERVAL = 40 * 60      # a new scan every 40 minutes
 REQUEST_TIMEOUT = 15
 MAX_WORKERS = 8              # parallel downloads
 REQUEST_DELAY = 0.5          # seconds each worker rests after a request (be polite)
