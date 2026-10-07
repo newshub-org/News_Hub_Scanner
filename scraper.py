@@ -21,7 +21,7 @@ from psycopg2.extras import execute_values
 DATABASE_URL = os.getenv("DATABASE_URL")
 TOPICS_FILE = os.getenv("TOPICS_FILE", "topics.txt")
 
-SCAN_INTERVAL = 40 * 60      # a new scan every 40 minutes
+SCAN_INTERVAL = 59 * 60      # a new scan every 59 minutes
 REQUEST_TIMEOUT = 15
 MAX_WORKERS = 8              # parallel downloads
 REQUEST_DELAY = 0.5          # seconds each worker rests after a request (be polite)
