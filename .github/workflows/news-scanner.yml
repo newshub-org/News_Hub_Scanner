@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "*/40 * * * *"
+    - cron: "*/59 * * * *"
 
 jobs:
   scan:
@@ -32,6 +32,6 @@ jobs:
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           RUN_ONCE: "1"
-          TIME_BUDGET: "2400"
+          TIME_BUDGET: "3540"
         run: |
           python scraper.py
