@@ -18,7 +18,7 @@ from psycopg2.extras import execute_values
 # SETTINGS
 # ============================================================
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+DATABASE_URL = os.getenv("DATABASE")
 TOPICS_FILE = os.getenv("TOPICS_FILE", "topics.txt")
 
 SCAN_INTERVAL = 59 * 60      # a new scan every 59 minutes
